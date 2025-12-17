@@ -1,0 +1,61 @@
+# GLYPH Framework License
+
+Copyright (c) 2024 GLYPH Contributors
+
+## Source-Available Non-Commercial License
+
+### Permissions
+
+You are free to:
+
+1. **Use** - Run the framework for personal, educational, or non-commercial purposes
+2. **Study** - Read and learn from the source code
+3. **Modify** - Create your own versions and modifications
+4. **Share** - Distribute copies to others under this same license
+5. **Contribute** - Submit improvements back to the project
+
+### Conditions
+
+1. **Attribution** - You must give appropriate credit, provide a link to the original project, and indicate if changes were made
+
+2. **Non-Commercial** - You may not use the GLYPH framework code for commercial purposes without obtaining a commercial license. This includes:
+   - Selling the framework or derivatives
+   - Using the framework in commercial products or services
+   - Incorporating the framework into proprietary software for sale
+
+3. **Share-Alike** - If you modify the framework and distribute it, you must do so under this same license
+
+### Games Made With GLYPH
+
+**IMPORTANT**: This license applies ONLY to the GLYPH framework itself.
+
+Games, applications, and other software that you create USING GLYPH belong entirely to you. You may:
+
+- Sell your games commercially
+- Use any license you choose for your games
+- Keep your game source code private
+- Distribute your games however you wish
+
+The framework code that YOUR game calls is licensed as above, but your game's unique code, assets, and content are yours.
+
+### Commercial Licensing
+
+If you wish to use GLYPH in a commercial product, or incorporate it into proprietary software, please contact the project maintainers to discuss commercial licensing options.
+
+### Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+## Summary
+
+| Use Case | Allowed? |
+|----------|----------|
+| Learning assembly from this code | ✅ Yes |
+| Building free games | ✅ Yes |
+| Building commercial games | ✅ Yes |
+| Modifying the framework | ✅ Yes |
+| Selling the framework | ❌ No (without license) |
+| Using framework in commercial SaaS | ❌ No (without license) |
+| Forking and selling as new product | ❌ No (without license) |
