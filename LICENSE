@@ -4,6 +4,20 @@ Copyright (c) 2024 GLYPH Contributors
 
 ## Source-Available Non-Commercial License
 
+## for lazy readers.
+| Use Case | Allowed? |
+|----------|----------|
+| Learning assembly from this code | ✅ Yes |
+| Building free games | ✅ Yes |
+| Building commercial games | ✅ Yes |
+| Modifying the framework | ✅ Yes |
+| Selling the framework | ❌ No (without license) |
+| Using framework in commercial SaaS | ❌ No (without license) |
+| Forking and selling as new product | ❌ No (without license) |
+
+-----
+
+    EXPLAINED:
 ### Permissions
 
 You are free to:
@@ -45,17 +59,3 @@ If you wish to use GLYPH in a commercial product, or incorporate it into proprie
 ### Disclaimer
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
----
-
-## Summary
-
-| Use Case | Allowed? |
-|----------|----------|
-| Learning assembly from this code | ✅ Yes |
-| Building free games | ✅ Yes |
-| Building commercial games | ✅ Yes |
-| Modifying the framework | ✅ Yes |
-| Selling the framework | ❌ No (without license) |
-| Using framework in commercial SaaS | ❌ No (without license) |
-| Forking and selling as new product | ❌ No (without license) |
